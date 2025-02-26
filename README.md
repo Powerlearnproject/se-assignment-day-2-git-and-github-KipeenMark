@@ -3,6 +3,7 @@
 # se-day-2-git-and-github
 ________________________________________
 1. Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+   
 Version control is a system that tracks changes to files over time, allowing developers to revert to previous versions, compare changes, and collaborate efficiently. It ensures project integrity by:
 •	Preventing accidental data loss.
 •	Allowing multiple developers to work on the same project without conflicts.
